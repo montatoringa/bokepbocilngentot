@@ -1,2 +1,2 @@
-A live demo of the project is available at [https://bokepbocilngentot.pages.dev](https://bokepbocilngentot.pages.dev).
-Fork the [repository](https://github.com/jogserborwa/bocilmama) on GitHub.
+[bokepbocilngentot](https://bokepbocilngentot.pages.dev)
+Fork the [repository](https://github.com/ceriguna) on GitHub.
